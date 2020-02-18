@@ -1,0 +1,28 @@
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Properties.Resources.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\bin\Debug\Proyecto_JC_Distribuidres_2.exe.config
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\bin\Debug\Proyecto_JC_Distribuidres_2.exe
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\bin\Debug\Proyecto_JC_Distribuidres_2.pdb
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.exe
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.pdb
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form2.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form3.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form4.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form5.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.FormEscritorio.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.csprojAssemblyReference.cache
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form1.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.FormEscritorio.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form2.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form3.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form4.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Form5.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.Properties.Resources.resources
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.csproj.GenerateResource.cache
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.csproj.CoreCompileInputs.cache
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.exe
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\obj\Debug\Proyecto_JC_Distribuidres_2.pdb
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\bin\Debug\Proyecto_JC_Distribuidres_2.exe.config
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\bin\Debug\Proyecto_JC_Distribuidres_2.exe
+D:\Gabo\ESFOT\5TO SEMESTRE\TECNICAS\Proyecto_TADSI\Proyecto_JC_Distribuidres_2\bin\Debug\Proyecto_JC_Distribuidres_2.pdb
